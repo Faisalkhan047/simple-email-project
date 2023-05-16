@@ -35,4 +35,4 @@ Future Sub tasks:
 
 
 
-(NOTE: To make this code more effiecient and professional and suggest some more sub tasks within the application and for colloboration please get in touch with me here mdfaisalkhan436@gmail.com)
+(NOTE: To make this code more effiecient and professional suggest some more sub tasks within the application and for colloboration please get in touch with me here mdfaisalkhan436@gmail.com)
