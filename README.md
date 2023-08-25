@@ -11,7 +11,7 @@ This is a simple project for creating an emails with respect to the department o
        4.Accounting
        5.others/none
   
-  Steps:
+  Steps to be followed:
   ======
   
 1. The user has to enter the enter the Firstname and lastname respectively.
